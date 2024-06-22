@@ -87,10 +87,11 @@ MEM files: R,G,and B hex files used to display our image on screen. We used the 
 
 ## Top Level Block Design  
 Left Side:
-![Left side top level block design](images/Left_side_top_level_block_design.jpg)
+![Left side top level block design](images/image3.jpg)
 
 Right Side:
-![Right side top level block design](images/Right_side_top_level_block_design.jpg)
+![Right side top level block design](images/image2.jpg)
+![Right side top level block design_continued](images/image1.jpg)
 
 ## Design Resources and Statistics  
 | Resource         | Usage                |
