@@ -1,5 +1,6 @@
 # FPGA_Project
-ECE 385 FINAL PROJECT REPORT
+
+[PROJECT REPORT](https://docs.google.com/document/d/1jipwpHxElXlgkJtALxgfg8ceAWVQzt5nbFtuOcn8Vqk/edit?usp=sharing)
 
 ## Introduction
 
